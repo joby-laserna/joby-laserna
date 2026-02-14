@@ -2,7 +2,7 @@
 
 🔭 Computer Science graduate based in Auckland, New Zealand.
 🌱 Currently building and refining practical PowerShell scripts, mainly for Microsoft environments.
-🧰 Tech Stack: PowerShell | SQL | Entra ID | Intune | Microsoft 365 Admin Center.
+🧰 Main Tech Stack: PowerShell | SQL | Entra ID | Intune | Microsoft 365 Admin Center.
 
 
 ## 🚀 Fun Facts: 
