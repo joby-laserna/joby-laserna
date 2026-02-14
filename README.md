@@ -1,17 +1,18 @@
 ## Hi I'm Joby 👋
 
+🔭 Computer Science graduate based in Auckland, New Zealand.
+🌱 I build practical PowerShell scripts, mainly for Microsoft environments.
+🧰 Tech Stack: PowerShell | SQL | Entra ID | Intune | Microsoft 365 Admin Center.
+
+
+## 🚀 Fun Facts: 
+- Big Marvel fan
+- I play drums (and I take it seriously)
+- I'm naturally curious and tend to dive deep into different hobbies.
+
+
 <!--
-Recent Commputer Science graduate based in Auckland, New Zealand
-As of now I build practical PowerShell scripts, mainly for Microsoft environments.
-Tech Stack: PowerShell, SQL, Entra ID, Intune and Microsoft 365 Admin Center
-I've got a couple of pinned projects, but my favourite is the (Hyperlink Text).
 
-
-Fun Facts:
-- 1
-- 2
-- 3
-Hobbies: Drums, Gym, Building things
 
 
 **joby-laserna/joby-laserna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
