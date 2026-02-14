@@ -6,7 +6,7 @@
 
 
 ## 🚀 Fun Facts: 
-- Big Marvel fan
+- Big Marvel fan 🎬
 - I play drums (and I take it seriously)
 - I'm naturally curious and tend to dive deep into different hobbies.
 
