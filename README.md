@@ -1,4 +1,4 @@
-## Hi I'm Joby 👋
+## Hey I'm Joby 👋
 
 🔭 Computer Science graduate based in Auckland, New Zealand.
 🌱 Currently building and refining practical PowerShell scripts, mainly for Microsoft environments.
