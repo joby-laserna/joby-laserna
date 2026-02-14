@@ -1,7 +1,7 @@
 ## Hi I'm Joby 👋
 
 🔭 Computer Science graduate based in Auckland, New Zealand.
-🌱 I build practical PowerShell scripts, mainly for Microsoft environments.
+🌱 Currently building and refining practical PowerShell scripts, mainly for Microsoft environments.
 🧰 Tech Stack: PowerShell | SQL | Entra ID | Intune | Microsoft 365 Admin Center.
 
 
